@@ -1,0 +1,810 @@
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/1.jpg 62,163,405,270,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/10.jpg 76,44,421,443,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/100.jpg 203,34,299,466,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/1000.jpg 102,78,124,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/101.jpg 118,3,188,294,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/102.jpg 108,160,452,366,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/104.jpg 95,23,389,485,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/106.jpg 57,149,436,202,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/107.jpg 8,10,491,301,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/108.jpg 48,73,493,482,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/109.jpg 11,48,347,315,0 115,130,419,387,0 222,239,483,463,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/110.jpg 41,28,484,342,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/111.jpg 105,95,289,292,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/112.jpg 17,23,487,486,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/113.jpg 81,102,372,245,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/114.jpg 138,55,342,446,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/115.jpg 12,43,490,290,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/116.jpg 40,233,487,346,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/117.jpg 21,32,486,389,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/118.jpg 75,85,467,263,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/120.jpg 84,208,407,297,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/121.jpg 26,55,484,413,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/122.jpg 206,52,293,443,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/123.jpg 31,4,470,261,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/124.jpg 5,12,300,290,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/125.jpg 24,6,312,329,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/126.jpg 91,140,171,288,0 175,78,228,319,0 238,22,285,326,0 287,79,386,348,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/127.jpg 52,76,429,255,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/128.jpg 42,93,445,399,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/130.jpg 11,8,67,218,0 83,9,139,222,0 156,10,207,219,0 227,9,279,220,0 300,10,352,222,0 372,12,421,221,0 441,16,488,220,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/131.jpg 5,30,154,365,0 97,10,200,353,0 203,1,259,350,0 252,14,356,357,0 296,39,451,365,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/132.jpg 12,34,163,396,0 109,6,198,388,0 193,8,289,387,0 217,45,390,393,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/133.jpg 210,8,291,472,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/134.jpg 208,126,283,490,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/135.jpg 33,26,465,479,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/136.jpg 34,167,442,257,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/138.jpg 26,250,225,295,0 74,185,304,265,0 154,125,393,209,0 231,54,476,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/139.jpg 88,94,295,311,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/14.jpg 83,129,422,376,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/140.jpg 31,100,462,374,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/142.jpg 194,9,261,440,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/143.jpg 194,33,302,465,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/144.jpg 208,9,290,338,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/145.jpg 17,6,231,479,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/146.jpg 76,51,420,411,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/148.jpg 188,106,240,392,0 257,106,305,391,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/149.jpg 48,109,446,215,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/15.jpg 67,52,408,126,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/150.jpg 55,53,450,460,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/151.jpg 177,24,225,277,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/152.jpg 11,78,369,442,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/154.jpg 2,24,68,61,0 20,10,106,53,0 47,1,136,38,0 97,1,186,40,0 137,1,219,35,0 12,112,119,159,0 4,90,105,136,0 48,89,149,135,0 25,66,123,106,0 69,66,163,109,0 105,63,193,103,0 131,58,220,101,0 120,40,220,88,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/155.jpg 3,5,163,350,0 107,1,250,350,0 195,1,350,350,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/156.jpg 133,551,573,910,0 175,358,555,751,0 326,266,643,680,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/157.jpg 21,23,259,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/158.jpg 1,1,211,232,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/159.jpg 27,32,247,145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/16.jpg 155,49,348,487,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/160.jpg 18,74,240,112,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/161.jpg 251,16,387,623,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/162.jpg 27,37,258,136,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/163.jpg 28,62,255,125,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/164.jpg 71,33,245,168,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/165.jpg 15,30,241,155,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/166.jpg 32,38,235,129,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/167.jpg 1431,1193,2007,4285,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/168.jpg 203,67,483,554,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/169.jpg 68,157,541,287,0 40,249,626,428,0 40,398,640,659,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/17.jpg 55,35,470,296,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/170.jpg 58,22,567,317,0 31,282,544,579,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/172.jpg 38,29,369,98,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/173.jpg 49,111,524,345,0 150,211,595,510,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/174.jpg 129,23,170,295,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/175.jpg 27,38,360,209,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/176.jpg 33,206,504,569,0 298,326,758,754,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/177.jpg 20,58,630,176,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/178.jpg 266,63,377,583,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/179.jpg 183,233,268,569,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/18.jpg 28,75,373,266,0 45,149,473,417,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/180.jpg 19,110,479,432,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/181.jpg 38,30,602,781,0 420,194,800,630,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/183.jpg 17,232,386,584,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/184.jpg 41,264,587,371,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/185.jpg 58,61,641,391,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/186.jpg 77,13,122,186,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/188.jpg 195,81,301,584,0 332,48,450,587,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/189.jpg 86,7,184,257,0 136,54,242,312,0 191,100,308,362,0 225,167,356,447,0 331,114,431,400,0 411,88,501,364,0 486,79,580,349,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/190.jpg 265,4,416,628,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/192.jpg 58,100,578,476,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/193.jpg 14,94,477,423,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/194.jpg 196,18,307,479,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/195.jpg 7,9,269,174,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/196.jpg 60,68,112,486,0 113,67,162,486,0 161,69,212,483,0 211,66,262,483,0 264,65,315,481,0 314,65,365,484,0 365,66,416,481,0 421,64,467,482,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/198.jpg 34,104,130,359,0 129,100,227,359,0 231,104,326,359,0 324,105,420,359,0 420,103,512,359,0 514,104,607,359,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/199.jpg 88,235,952,444,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/20.jpg 148,60,353,202,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/200.jpg 32,110,511,331,0 41,180,535,366,0 59,246,568,423,0 58,326,598,473,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/201.jpg 253,290,937,910,0 121,602,1086,1212,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/202.jpg 296,807,2250,1769,0 970,667,2201,1433,0 1302,589,2422,1398,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/203.jpg 237,27,626,382,0 205,152,555,498,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/205.jpg 356,54,767,638,0 165,113,655,600,0 47,270,625,648,0 108,483,647,719,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/206.jpg 117,40,711,687,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/207.jpg 78,37,257,70,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/208.jpg 157,145,344,306,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/209.jpg 131,34,560,149,0 280,86,559,167,0 248,148,487,212,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/210.jpg 149,39,258,532,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/211.jpg 20,314,97,609,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/212.jpg 31,74,995,948,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/214.jpg 128,73,270,368,0 212,78,293,366,0 286,78,339,318,0 320,92,372,274,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/215.jpg 118,28,376,93,0 88,148,334,222,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/216.jpg 36,105,338,189,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/217.jpg 309,651,608,755,0 429,683,602,757,0 492,688,631,773,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/218.jpg 444,174,577,849,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/219.jpg 161,107,449,961,0 427,77,615,946,0 541,130,873,959,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/220.jpg 222,110,362,350,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/222.jpg 129,146,236,284,0 177,108,269,282,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/223.jpg 49,28,125,341,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/224.jpg 579,224,795,1298,0 816,527,973,1293,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/226.jpg 597,1089,2513,1690,0 1001,779,2517,1593,0 1419,669,2524,1504,0 1861,710,2482,1409,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/227.jpg 29,7,161,370,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/229.jpg 117,71,174,349,0 195,75,250,344,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/23.jpg 14,68,490,454,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/231.jpg 108,226,594,314,0 110,195,622,416,0 262,280,717,469,0 76,440,472,528,0 214,514,590,580,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/232.jpg 159,33,390,437,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/233.jpg 24,86,247,577,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/234.jpg 60,326,542,651,0 175,203,552,595,0 367,128,599,575,0 562,166,686,641,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/236.jpg 151,102,214,246,0 139,108,203,259,0 172,101,330,252,0 159,138,354,268,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/237.jpg 6,1,400,149,0 102,37,399,257,0 222,129,400,342,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/24.jpg 4,1,446,483,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/240.jpg 99,47,200,575,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/241.jpg 297,57,507,599,0 196,336,753,800,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/243.jpg 223,332,982,729,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/244.jpg 167,30,226,375,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/245.jpg 375,184,594,676,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/246.jpg 73,477,709,608,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/247.jpg 224,200,291,507,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/248.jpg 175,106,508,973,0 154,310,588,940,0 124,521,682,914,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/249.jpg 388,127,998,403,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/25.jpg 21,36,253,352,0 157,91,328,443,0 76,187,401,461,0 393,27,490,387,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/250.jpg 324,43,494,741,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/251.jpg 225,83,420,431,0 220,96,533,396,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/252.jpg 9,411,667,732,0 93,316,686,695,0 185,240,718,667,0 282,184,742,632,0 401,133,750,608,0 510,104,750,543,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/253.jpg 420,130,676,1176,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/254.jpg 15,43,324,864,0 195,46,424,895,0 330,54,530,911,0 479,49,693,907,0 618,50,844,900,0 736,53,1024,905,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/255.jpg 25,128,176,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/256.jpg 134,44,278,223,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/257.jpg 138,70,426,697,0 342,88,694,634,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/259.jpg 23,286,180,420,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/26.jpg 15,26,491,474,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/260.jpg 15,495,391,793,0 197,278,687,635,0 299,158,800,543,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/261.jpg 70,59,221,530,0 210,22,334,552,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/262.jpg 1017,804,1974,1004,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/263.jpg 134,139,847,558,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/264.jpg 75,88,343,177,0 188,48,360,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/265.jpg 862,252,982,814,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/266.jpg 107,153,696,384,0 125,178,689,424,0 107,291,726,612,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/267.jpg 63,329,539,657,0 173,204,551,595,0 366,124,601,574,0 561,168,687,640,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/268.jpg 45,98,234,196,0 66,144,289,254,0 110,95,305,193,0 98,57,271,144,0 155,55,337,130,0 140,23,304,93,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/27.jpg 203,17,298,482,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/270.jpg 17,108,356,187,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/271.jpg 207,80,374,789,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/272.jpg 7,185,188,280,0 29,140,209,272,0 59,96,242,268,0 100,40,265,257,0 165,12,296,249,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/273.jpg 284,295,685,352,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/274.jpg 2,69,286,253,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/275.jpg 682,165,794,342,0 993,159,1080,278,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/276.jpg 4,144,661,753,0 262,93,665,626,0 531,126,800,702,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/277.jpg 121,77,376,245,0 219,52,359,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/278.jpg 359,292,441,701,0 616,413,701,696,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/279.jpg 450,175,729,593,0 629,163,896,595,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/280.jpg 344,90,479,682,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/281.jpg 153,36,325,279,0 216,13,342,217,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/282.jpg 303,24,498,760,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/284.jpg 134,303,398,564,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/285.jpg 77,150,457,682,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/286.jpg 152,132,344,169,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/289.jpg 286,58,459,599,0 500,173,632,663,0 619,158,754,641,0 127,113,378,586,0 64,128,353,600,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/290.jpg 141,136,302,695,0 212,87,410,653,0 239,88,536,622,0 296,38,696,542,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/291.jpg 75,246,249,504,0 217,116,517,334,0 179,473,462,714,0 504,301,761,583,0 384,160,635,426,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/292.jpg 189,113,771,732,0 33,300,657,872,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/293.jpg 14,51,203,201,0 80,42,302,174,0 140,33,389,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/294.jpg 45,568,437,748,0 19,450,451,697,0 44,335,491,649,0 127,253,517,610,0 203,159,604,601,0 318,112,655,579,0 444,75,725,575,0 588,65,795,580,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/295.jpg 97,159,312,217,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/297.jpg 30,74,138,207,0 34,77,196,235,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/299.jpg 210,89,249,243,0 216,93,262,242,0 223,90,269,245,0 222,94,275,243,0 225,98,285,245,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/3.jpg 25,119,491,241,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/300.jpg 416,11,682,491,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/301.jpg 859,170,956,646,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/302.jpg 467,216,1097,627,0 618,100,1104,535,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/303.jpg 161,189,506,792,0 190,68,576,586,0 308,23,493,624,0 406,69,658,669,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/304.jpg 97,4,194,293,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/307.jpg 147,265,267,617,0 354,262,434,595,0 512,242,581,565,0 630,322,779,641,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/308.jpg 161,271,386,426,0 209,207,413,415,0 261,142,455,418,0 352,83,491,433,0 471,48,578,445,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/309.jpg 108,376,257,634,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/31.jpg 13,59,481,453,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/312.jpg 302,130,698,435,0 533,193,791,592,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/313.jpg 615,302,675,568,0 652,181,744,570,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/314.jpg 37,44,97,222,0 53,66,136,227,0 65,95,165,235,0 109,136,287,271,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/316.jpg 258,138,399,212,0 258,243,399,336,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/318.jpg 152,204,491,302,0 129,313,534,573,0 481,189,637,507,0 270,377,666,644,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/319.jpg 80,19,354,92,0 173,51,353,103,0 152,93,307,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/32.jpg 81,15,395,473,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/320.jpg 116,247,259,449,0 169,224,313,422,0 227,207,385,388,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/321.jpg 189,108,849,542,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/322.jpg 310,178,452,790,0 982,320,1145,718,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/324.jpg 30,34,272,246,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/325.jpg 173,665,589,1000,0 242,1,649,354,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/326.jpg 222,273,399,385,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/327.jpg 38,142,321,165,0 39,165,355,193,0 56,192,400,219,0 64,220,441,257,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/328.jpg 28,387,485,645,0 54,370,352,490,0 152,297,585,534,0 157,286,454,408,0 251,229,669,432,0 260,196,530,292,0 418,183,782,343,0 347,131,612,225,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/329.jpg 180,120,665,256,0 279,44,607,269,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/33.jpg 51,35,133,468,0 159,35,235,469,0 264,35,341,471,0 370,34,453,466,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/330.jpg 257,204,755,719,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/331.jpg 265,113,698,509,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/334.jpg 260,403,722,600,0 19,315,716,538,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/335.jpg 92,107,958,512,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/336.jpg 262,376,476,583,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/337.jpg 368,119,541,950,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/338.jpg 8,294,307,402,0 17,223,340,370,0 49,144,404,350,0 125,76,434,323,0 217,27,436,234,0 77,531,435,671,0 1,665,357,808,0 682,37,868,131,0 440,151,868,261,0 658,180,868,275,0 496,62,868,200,0 558,213,868,399,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/339.jpg 37,46,363,195,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/34.jpg 8,10,461,470,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/341.jpg 303,250,512,472,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/342.jpg 30,129,220,257,0 62,92,221,240,0 143,47,223,225,0 105,89,277,208,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/344.jpg 105,268,497,402,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/345.jpg 27,113,196,213,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/346.jpg 29,58,247,324,0 85,152,254,275,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/347.jpg 36,111,370,159,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/348.jpg 70,60,255,211,0 148,92,275,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/349.jpg 192,77,380,283,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/35.jpg 194,15,304,485,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/350.jpg 161,128,400,389,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/351.jpg 585,282,934,412,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/352.jpg 5,317,657,1000,0 247,306,750,960,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/353.jpg 70,86,151,426,0 159,89,224,427,0 231,92,319,427,0 302,93,443,426,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/354.jpg 8,45,267,328,0 123,18,303,375,0 273,54,378,388,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/355.jpg 1,540,379,807,0 1,246,585,385,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/356.jpg 165,517,539,820,0 216,645,470,856,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/357.jpg 214,156,620,378,0 458,168,656,412,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/358.jpg 1,37,210,186,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/359.jpg 58,64,149,268,0 117,29,194,268,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/360.jpg 93,108,335,313,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/361.jpg 228,55,489,300,0 292,136,636,330,0 334,186,718,363,0 62,191,461,404,0 161,99,481,352,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/362.jpg 71,129,915,960,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/363.jpg 55,75,79,191,0 93,70,116,183,0 129,70,156,175,0 164,56,186,165,0 83,201,147,254,0 114,191,188,246,0 159,182,214,226,0 184,171,260,224,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/364.jpg 79,44,354,173,0 178,45,357,159,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/365.jpg 109,195,295,466,0 170,179,460,445,0 159,208,599,499,0 184,291,728,545,0 99,412,768,610,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/367.jpg 9,197,244,311,0 375,111,632,255,0 173,267,331,500,0 349,355,524,500,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/368.jpg 80,134,186,287,0 79,136,282,322,0 133,193,330,313,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/369.jpg 8,127,239,227,0 58,88,242,210,0 109,65,252,199,0 161,54,270,195,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/371.jpg 904,173,1008,648,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/373.jpg 16,142,397,228,0 13,249,284,290,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/374.jpg 43,288,608,553,0 144,293,631,665,0 261,195,800,426,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/375.jpg 140,247,387,361,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/377.jpg 316,70,348,217,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/378.jpg 33,45,359,134,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/379.jpg 155,234,560,590,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/38.jpg 170,6,276,443,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/380.jpg 72,184,778,273,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/381.jpg 145,142,471,969,0 260,105,740,794,0 183,373,643,1202,0 290,400,856,1135,0 545,278,899,1121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/382.jpg 257,437,724,799,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/383.jpg 49,304,527,635,0 179,200,663,547,0 298,107,786,460,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/384.jpg 57,37,246,206,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/385.jpg 23,256,568,703,0 350,218,764,629,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/386.jpg 33,61,185,216,0 50,156,250,247,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/388.jpg 108,125,517,395,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/389.jpg 103,131,332,189,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/39.jpg 31,64,449,473,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/391.jpg 26,111,181,230,0 195,23,390,157,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/392.jpg 319,247,733,523,0 528,239,827,579,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/393.jpg 132,105,1073,747,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/394.jpg 122,1,173,205,0 228,1,281,206,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/395.jpg 249,50,448,171,0 216,110,383,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/396.jpg 221,47,616,502,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/397.jpg 121,138,374,377,0 121,174,441,479,0 76,215,512,629,0 178,273,609,688,0 287,343,714,812,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/398.jpg 96,145,585,603,0 165,70,792,482,0 43,303,527,732,0 13,529,496,779,0 123,712,587,918,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/399.jpg 22,85,305,275,0 133,56,293,214,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/4.jpg 9,56,420,365,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/40.jpg 200,17,301,484,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/400.jpg 30,57,381,221,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/401.jpg 54,84,131,158,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/402.jpg 50,88,130,137,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/403.jpg 47,98,128,137,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/404.jpg 49,65,125,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/405.jpg 47,16,124,124,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/406.jpg 57,1,123,122,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/407.jpg 72,1,122,122,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/409.jpg 96,1,120,130,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/41.jpg 70,39,154,468,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/410.jpg 102,1,121,154,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/411.jpg 99,1,119,167,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/413.jpg 82,1,125,120,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/414.jpg 86,1,146,105,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/415.jpg 95,15,180,153,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/416.jpg 89,54,158,156,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/418.jpg 93,64,148,144,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/419.jpg 95,56,149,131,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/420.jpg 91,49,147,123,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/422.jpg 74,52,130,146,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/423.jpg 81,41,137,146,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/424.jpg 94,20,148,157,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/426.jpg 103,5,129,162,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/427.jpg 107,1,137,154,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/428.jpg 99,1,148,142,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/429.jpg 65,15,144,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/43.jpg 41,40,440,127,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/430.jpg 37,73,130,141,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/432.jpg 41,86,125,172,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/433.jpg 49,46,120,164,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/434.jpg 48,28,102,157,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/435.jpg 48,31,94,168,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/436.jpg 46,46,89,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/437.jpg 78,72,102,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/438.jpg 91,71,109,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/439.jpg 88,64,116,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/44.jpg 1,69,393,430,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/440.jpg 89,77,132,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/441.jpg 108,71,160,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/443.jpg 102,90,181,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/444.jpg 75,94,162,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/445.jpg 87,64,162,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/446.jpg 83,57,159,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/447.jpg 75,53,164,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/448.jpg 67,37,168,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/45.jpg 131,28,191,295,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/452.jpg 82,39,134,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/453.jpg 89,32,129,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/454.jpg 79,69,135,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/455.jpg 52,61,120,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/456.jpg 27,84,127,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/457.jpg 3,101,138,190,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/459.jpg 1,66,134,133,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/46.jpg 15,18,330,333,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/460.jpg 1,43,130,125,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/461.jpg 14,19,129,135,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/462.jpg 39,43,125,138,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/463.jpg 32,93,112,147,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/464.jpg 25,118,96,176,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/465.jpg 16,122,78,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/466.jpg 8,113,48,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/467.jpg 2,113,31,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/468.jpg 5,102,32,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/469.jpg 12,102,43,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/47.jpg 37,26,462,473,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/470.jpg 8,101,33,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/471.jpg 8,98,29,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/473.jpg 19,57,111,173,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/475.jpg 36,77,126,141,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/476.jpg 51,103,126,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/477.jpg 55,96,124,141,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/478.jpg 53,75,126,122,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/479.jpg 55,67,123,111,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/48.jpg 86,146,430,361,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/480.jpg 61,59,120,120,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/482.jpg 64,27,115,134,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/483.jpg 65,2,106,141,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/484.jpg 76,3,106,133,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/485.jpg 79,2,113,127,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/486.jpg 86,1,127,146,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/488.jpg 77,1,152,157,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/489.jpg 81,2,181,159,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/490.jpg 95,1,200,173,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/493.jpg 84,1,200,145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/495.jpg 97,44,163,98,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/496.jpg 102,79,159,118,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/497.jpg 103,63,167,108,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/499.jpg 106,23,161,136,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/5.jpg 196,9,290,473,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/50.jpg 196,6,306,495,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/500.jpg 99,1,140,163,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/501.jpg 86,1,104,179,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/502.jpg 58,21,123,173,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/503.jpg 45,76,128,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/504.jpg 36,134,119,165,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/505.jpg 47,120,115,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/507.jpg 54,107,119,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/508.jpg 56,101,116,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/509.jpg 59,94,115,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/51.jpg 109,70,440,445,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/510.jpg 61,72,108,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/511.jpg 56,52,104,179,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/512.jpg 64,53,103,186,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/513.jpg 63,56,96,188,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/514.jpg 69,54,97,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/515.jpg 64,53,94,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/516.jpg 61,63,93,193,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/519.jpg 80,64,145,162,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/52.jpg 22,29,481,469,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/520.jpg 81,81,152,143,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/522.jpg 59,68,149,135,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/524.jpg 65,95,178,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/526.jpg 55,1,200,85,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/527.jpg 45,56,194,120,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/528.jpg 44,89,181,161,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/529.jpg 54,82,174,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/53.jpg 62,38,452,304,0 88,124,456,420,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/530.jpg 66,75,159,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/532.jpg 70,58,135,163,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/533.jpg 63,50,127,171,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/534.jpg 65,37,110,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/537.jpg 54,78,86,192,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/538.jpg 42,85,97,178,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/539.jpg 43,83,105,172,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/54.jpg 43,100,469,259,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/540.jpg 45,92,111,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/542.jpg 48,83,136,180,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/543.jpg 37,52,150,172,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/544.jpg 25,43,148,166,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/545.jpg 12,68,149,181,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/546.jpg 1,74,156,187,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/547.jpg 2,75,160,166,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/549.jpg 1,63,132,136,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/55.jpg 207,25,300,478,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/552.jpg 4,83,146,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/553.jpg 10,82,147,153,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/554.jpg 13,105,142,161,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/557.jpg 29,95,121,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/558.jpg 38,97,118,134,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/56.jpg 23,12,488,313,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/560.jpg 44,89,110,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/562.jpg 63,8,104,111,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/563.jpg 83,1,113,108,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/565.jpg 86,7,106,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/566.jpg 84,17,110,134,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/567.jpg 82,7,117,120,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/569.jpg 90,8,141,118,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/57.jpg 197,78,304,186,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/572.jpg 85,27,144,118,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/575.jpg 87,21,153,108,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/577.jpg 87,46,165,125,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/578.jpg 82,54,170,139,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/579.jpg 79,63,170,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/58.jpg 95,52,400,119,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/580.jpg 80,64,173,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/581.jpg 83,60,183,143,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/582.jpg 86,59,191,135,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/583.jpg 86,64,199,138,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/584.jpg 84,87,200,148,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/585.jpg 82,86,200,152,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/586.jpg 83,84,200,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/587.jpg 89,81,200,148,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/589.jpg 59,88,181,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/590.jpg 48,95,146,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/591.jpg 61,55,141,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/592.jpg 99,26,148,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/594.jpg 76,50,118,178,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/595.jpg 58,92,110,181,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/597.jpg 52,144,105,176,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/599.jpg 50,130,109,157,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/6.jpg 154,11,277,492,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/60.jpg 28,5,472,496,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/600.jpg 51,107,102,159,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/602.jpg 869,426,1740,1263,0 226,684,1569,1465,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/603.jpg 1695,1155,2639,2223,0 1154,543,1407,1867,0 139,920,878,2096,0 186,885,966,2032,0 448,820,1063,2061,0 594,792,1133,2052,0 704,717,1175,2002,0 813,688,1248,1982,0 933,741,1372,2041,0 1301,526,1622,1799,0 1339,594,1751,1841,0 1407,644,1960,1826,0 1401,802,2075,1961,0 1486,846,2233,1982,0 1533,1026,2407,2094,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/604.jpg 244,700,1266,2003,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/605.jpg 25,119,271,1044,0 321,197,485,856,0 510,211,715,807,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/606.jpg 403,176,778,718,0 14,469,566,814,0 180,413,686,803,0 167,169,605,659,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/607.jpg 946,324,1501,1882,0 7,311,919,1630,0 440,370,1121,1838,0 86,232,1390,774,0 353,247,1376,866,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/608.jpg 763,77,2044,1218,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/61.jpg 178,49,240,285,0 265,47,328,288,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/610.jpg 363,12,1280,2044,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/611.jpg 370,159,822,1851,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/612.jpg 10,18,134,371,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/613.jpg 8,17,72,262,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/614.jpg 1,10,43,196,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/615.jpg 6,10,50,227,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/616.jpg 12,2,52,210,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/618.jpg 8,13,54,188,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/619.jpg 8,6,59,189,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/62.jpg 18,6,407,420,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/620.jpg 10,17,49,208,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/621.jpg 3,20,71,266,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/622.jpg 9,7,60,196,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/623.jpg 84,171,425,310,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/625.jpg 556,373,907,1263,0 41,378,456,822,0 330,460,818,1319,0 343,258,805,1306,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/626.jpg 56,640,1048,1288,0 77,378,1041,1006,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/627.jpg 394,340,1002,1158,0 77,550,879,1268,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/629.jpg 377,235,723,1255,0 784,483,1015,1224,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/63.jpg 210,45,293,477,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/632.jpg 361,350,618,1324,0 69,306,720,1019,0 5,1037,961,1312,0 33,870,918,1145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/633.jpg 123,732,697,1196,0 315,706,812,1155,0 264,624,679,1096,0 171,586,515,1078,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/635.jpg 59,570,1028,1250,0 18,263,387,1178,0 92,296,630,1137,0 133,406,864,1145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/636.jpg 233,829,1056,1286,0 35,327,638,1178,0 156,465,979,1237,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/637.jpg 77,303,965,920,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/638.jpg 107,59,264,452,0 176,66,320,441,0 249,78,383,423,0 300,88,451,429,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/64.jpg 12,41,490,334,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/640.jpg 129,42,372,812,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/641.jpg 203,68,249,293,0 307,247,483,403,0 272,78,363,294,0 79,106,189,331,0 30,255,195,449,0 232,252,400,435,0 64,189,179,387,0 139,170,232,386,0 227,133,306,343,0 265,174,401,358,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/642.jpg 86,13,282,214,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/643.jpg 684,274,1810,1621,0 497,39,1557,1110,0 340,1,1242,807,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/645.jpg 279,41,488,404,0 10,166,379,411,0 96,101,413,401,0 187,64,449,397,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/646.jpg 168,193,1033,1353,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/647.jpg 63,336,1876,1428,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/648.jpg 363,375,1911,2923,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/649.jpg 784,95,1022,982,0 607,106,778,973,0 405,138,582,965,0 219,127,387,972,0 38,135,219,968,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/65.jpg 21,20,355,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/650.jpg 25,9,1482,1235,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/651.jpg 19,120,472,227,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/652.jpg 98,26,386,293,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/653.jpg 66,36,366,995,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/654.jpg 113,53,406,234,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/655.jpg 44,16,235,191,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/657.jpg 136,77,254,185,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/659.jpg 41,79,214,190,0 64,44,241,124,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/66.jpg 205,37,299,461,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/660.jpg 26,291,381,597,0 114,293,459,522,0 54,45,272,232,0 190,25,398,212,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/661.jpg 201,24,314,477,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/662.jpg 185,62,315,179,0 152,20,196,176,0 12,66,161,185,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/663.jpg 354,43,422,484,0 260,48,324,473,0 163,39,235,473,0 80,46,138,471,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/664.jpg 7,92,291,153,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/665.jpg 148,123,270,208,0 104,54,312,193,0 1,68,229,208,0 67,6,286,124,0 1,13,177,122,0 22,1,148,61,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/666.jpg 77,35,205,171,0 75,19,179,159,0 70,11,154,152,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/668.jpg 2,32,327,299,0 81,123,393,378,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/67.jpg 99,88,220,310,0 161,46,240,263,0 253,185,438,392,0 210,270,438,466,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/670.jpg 47,31,263,993,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/672.jpg 29,55,260,156,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/673.jpg 22,74,147,185,0 130,104,305,151,0 117,101,301,134,0 108,90,298,118,0 99,77,286,103,0 98,64,283,92,0 97,55,282,89,0 107,39,283,88,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/674.jpg 64,62,397,450,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/677.jpg 63,86,157,465,0 394,239,453,469,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/678.jpg 41,43,465,172,0 23,173,489,336,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/679.jpg 72,105,209,294,0 161,3,219,161,0 109,3,221,135,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/68.jpg 57,207,432,381,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/680.jpg 86,37,283,980,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/681.jpg 72,4,286,146,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/682.jpg 164,37,354,463,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/683.jpg 20,18,49,204,0 49,19,76,203,0 80,14,107,200,0 112,9,141,201,0 141,9,166,198,0 175,10,200,198,0 200,12,230,200,0 233,12,259,202,0 258,10,293,204,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/684.jpg 93,32,152,236,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/685.jpg 122,75,471,341,0 31,160,379,403,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/686.jpg 251,99,422,307,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/687.jpg 156,29,339,817,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/688.jpg 82,219,492,487,0 34,121,429,356,0 4,51,383,233,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/689.jpg 11,60,244,113,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/69.jpg 21,127,325,336,0 159,117,479,336,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/692.jpg 158,13,270,485,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/693.jpg 86,15,208,211,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/695.jpg 25,42,280,194,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/696.jpg 30,108,448,217,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/697.jpg 121,15,189,179,0 13,56,111,250,0 73,33,150,219,0 131,62,237,253,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/698.jpg 26,57,67,183,0 73,52,118,184,0 219,56,264,184,0 123,53,164,184,0 172,57,213,180,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/7.jpg 199,29,293,462,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/70.jpg 26,36,359,207,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/700.jpg 88,225,207,274,0 39,134,169,179,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/701.jpg 27,32,100,328,0 96,48,182,327,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/703.jpg 67,100,461,950,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/704.jpg 147,19,184,192,0 4,22,45,192,0 40,20,80,193,0 77,24,112,193,0 114,22,149,191,0 183,17,220,192,0 212,21,252,192,0 250,23,287,195,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/706.jpg 1,50,209,245,0 62,39,254,200,0 111,25,255,147,0 135,25,255,110,0 162,17,255,73,0 197,3,255,42,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/707.jpg 1,1,239,156,0 1,91,221,239,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/708.jpg 2,67,241,164,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/709.jpg 36,106,231,226,0 14,91,225,174,0 13,62,231,115,0 34,12,236,100,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/71.jpg 114,1,210,400,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/710.jpg 11,38,419,207,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/711.jpg 23,151,428,485,0 241,42,484,441,0 129,93,445,458,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/712.jpg 74,16,265,440,0 188,347,441,426,0 189,287,438,364,0 184,230,425,345,0 169,194,398,332,0 158,141,365,315,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/713.jpg 175,325,500,442,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/714.jpg 1,164,465,450,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/715.jpg 76,44,249,210,0 26,71,223,225,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/716.jpg 274,63,354,317,0 210,106,283,371,0 144,63,218,307,0 68,93,154,353,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/717.jpg 69,29,133,388,0 144,30,200,387,0 218,32,276,391,0 287,35,338,389,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/718.jpg 19,39,242,225,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/719.jpg 15,14,472,453,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/72.jpg 86,163,288,446,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/720.jpg 105,59,263,299,0 190,112,350,352,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/721.jpg 29,79,121,435,0 126,87,207,445,0 210,228,268,485,0 167,11,337,210,0 278,127,348,551,0 346,48,428,424,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/722.jpg 196,106,398,317,0 107,81,238,321,0 144,84,313,334,0 196,158,459,358,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/723.jpg 18,128,384,281,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/724.jpg 8,116,253,249,0 42,34,228,201,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/725.jpg 54,107,464,375,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/726.jpg 72,32,132,220,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/727.jpg 50,184,497,338,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/728.jpg 94,78,216,188,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/729.jpg 51,41,249,94,0 36,85,243,137,0 54,140,251,193,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/73.jpg 189,24,309,483,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/730.jpg 8,37,445,282,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/732.jpg 197,152,499,268,0 34,142,415,220,0 1,145,273,202,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/734.jpg 186,1,256,198,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/735.jpg 171,145,411,296,0 4,32,101,138,0 68,1,150,239,0 107,3,184,237,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/736.jpg 3,335,304,449,0 76,123,252,371,0 130,131,348,331,0 38,107,166,394,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/739.jpg 23,35,61,191,0 81,38,116,196,0 134,37,171,193,0 188,37,227,192,0 247,43,281,196,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/740.jpg 65,101,152,441,0 161,134,308,490,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/741.jpg 237,102,413,296,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/743.jpg 83,12,276,164,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/744.jpg 11,104,204,388,0 75,69,276,340,0 137,33,331,299,0 182,10,394,252,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/745.jpg 24,56,249,268,0 192,285,331,452,0 307,219,418,460,0 412,259,485,434,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/747.jpg 117,49,398,433,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/748.jpg 1,43,397,178,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/749.jpg 20,197,290,434,0 133,109,406,319,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/750.jpg 3,46,456,385,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/751.jpg 70,92,357,310,0 137,107,400,351,0 216,124,444,394,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/752.jpg 74,41,229,110,0 1,126,186,198,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/753.jpg 56,26,367,266,0 1,134,333,363,0 151,97,471,358,0 84,221,433,461,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/756.jpg 11,98,178,243,0 74,48,239,190,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/757.jpg 58,142,154,318,0 100,128,198,307,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/758.jpg 51,209,447,555,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/759.jpg 120,18,171,212,0 175,20,232,219,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/760.jpg 218,330,311,416,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/761.jpg 18,172,487,324,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/762.jpg 124,23,351,272,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/764.jpg 146,198,329,464,0 337,44,454,316,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/765.jpg 113,16,478,377,0 78,111,389,542,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/766.jpg 122,24,387,330,0 13,197,239,400,0 152,197,400,390,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/767.jpg 5,213,495,357,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/768.jpg 3,84,202,203,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/769.jpg 114,86,373,373,0 221,48,414,363,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/77.jpg 83,23,423,470,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/770.jpg 282,332,422,425,0 284,195,394,306,0 212,224,312,351,0 249,206,352,322,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/771.jpg 172,253,500,426,0 61,43,500,319,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/772.jpg 30,27,132,103,0 168,149,252,200,0 181,135,266,173,0 233,130,281,184,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/773.jpg 231,49,500,310,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/774.jpg 13,305,492,589,0 24,12,372,368,0 128,21,500,373,0 31,198,488,511,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/775.jpg 238,79,364,385,0 62,140,354,396,0 151,98,357,386,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/776.jpg 119,83,223,236,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/777.jpg 201,153,335,417,0 75,25,331,194,0 33,113,288,279,0 33,177,289,367,0 170,148,439,336,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/779.jpg 243,46,330,431,0 333,127,390,408,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/78.jpg 206,29,301,469,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/780.jpg 39,29,264,158,0 45,31,235,187,0 50,32,195,226,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/782.jpg 170,59,289,476,0 122,72,416,431,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/783.jpg 78,6,135,307,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/784.jpg 117,99,214,185,0 55,92,142,180,0 42,60,168,114,0 17,89,130,167,0 29,78,156,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/785.jpg 99,326,174,443,0 114,445,163,556,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/788.jpg 37,90,181,229,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/789.jpg 19,92,487,373,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/79.jpg 30,90,467,401,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/790.jpg 5,45,249,183,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/791.jpg 222,243,499,399,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/792.jpg 227,83,433,432,0 145,37,230,429,0 180,48,299,434,0 194,67,371,434,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/793.jpg 54,361,307,579,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/794.jpg 26,111,295,194,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/795.jpg 40,63,131,469,0 128,49,211,458,0 211,49,314,467,0 287,39,408,461,0 382,25,497,455,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/796.jpg 58,106,360,403,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/797.jpg 59,80,352,451,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/798.jpg 1,172,177,227,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/799.jpg 39,5,209,521,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/8.jpg 207,28,301,476,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/80.jpg 115,171,388,333,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/800.jpg 55,154,235,204,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/801.jpg 31,75,87,160,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/803.jpg 38,76,112,165,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/805.jpg 38,73,132,166,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/807.jpg 11,84,138,161,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/808.jpg 1,84,144,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/809.jpg 1,85,145,154,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/81.jpg 140,79,399,262,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/810.jpg 1,44,143,160,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/813.jpg 54,1,143,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/814.jpg 53,1,131,145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/816.jpg 66,1,127,135,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/817.jpg 69,1,123,144,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/818.jpg 70,1,120,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/819.jpg 76,1,110,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/82.jpg 21,114,486,433,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/820.jpg 81,1,103,142,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/821.jpg 80,1,105,152,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/822.jpg 85,1,125,152,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/823.jpg 94,1,138,143,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/824.jpg 93,1,139,131,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/825.jpg 93,1,158,126,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/826.jpg 83,1,172,124,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/827.jpg 76,1,174,113,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/828.jpg 82,1,198,119,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/829.jpg 87,1,200,138,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/83.jpg 77,33,396,197,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/830.jpg 86,28,200,121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/831.jpg 87,14,200,83,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/832.jpg 93,21,200,86,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/833.jpg 89,42,200,102,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/834.jpg 77,22,200,81,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/835.jpg 76,49,186,117,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/837.jpg 85,70,163,121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/839.jpg 93,68,152,113,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/84.jpg 22,253,474,374,0 62,168,468,301,0 96,101,472,292,0 148,62,477,292,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/840.jpg 95,71,147,117,0 1,96,7,132,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/841.jpg 96,71,140,120,0 1,96,7,138,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/842.jpg 102,71,155,133,0 1,98,10,142,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/843.jpg 106,79,158,133,0 1,102,13,197,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/844.jpg 106,79,160,128,0 1,102,13,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/845.jpg 105,87,162,127,0 1,104,12,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/846.jpg 96,86,141,113,0 1,110,14,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/847.jpg 87,81,140,130,0 1,110,12,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/849.jpg 90,30,114,141,0 1,102,7,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/85.jpg 25,6,231,48,0 127,45,230,70,0 5,95,236,136,0 118,140,234,163,0 23,178,228,223,0 128,213,235,241,0 21,266,230,310,0 129,305,228,330,0 279,2,500,54,0 390,38,500,68,0 261,90,500,140,0 380,140,500,166,0 272,177,495,221,0 385,217,499,243,0 302,266,500,305,0 402,303,500,323,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/851.jpg 70,6,96,143,0 1,91,6,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/852.jpg 61,5,97,135,0 1,92,5,126,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/853.jpg 49,15,96,134,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/856.jpg 19,76,92,139,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/857.jpg 29,109,92,142,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/858.jpg 32,130,68,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/859.jpg 33,121,80,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/86.jpg 35,203,461,286,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/860.jpg 29,119,90,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/861.jpg 21,120,98,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/862.jpg 19,118,103,193,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/863.jpg 21,114,110,189,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/864.jpg 29,116,120,181,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/865.jpg 29,120,123,172,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/866.jpg 29,110,121,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/868.jpg 27,65,116,121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/869.jpg 32,35,120,128,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/87.jpg 18,136,470,321,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/870.jpg 38,1,121,128,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/871.jpg 73,1,124,128,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/872.jpg 87,1,124,137,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/873.jpg 84,1,120,147,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/874.jpg 88,1,125,131,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/875.jpg 102,1,146,121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/876.jpg 97,1,167,153,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/877.jpg 76,1,173,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/878.jpg 64,1,194,133,0 1,89,10,136,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/879.jpg 63,36,200,136,0 1,91,12,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/88.jpg 29,71,488,458,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/880.jpg 67,73,200,143,0 1,92,13,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/881.jpg 60,91,200,151,0 1,95,14,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/882.jpg 56,93,185,151,0 1,98,19,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/885.jpg 110,98,197,175,0 1,110,16,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/888.jpg 1,114,18,199,0 97,55,164,151,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/889.jpg 1,116,17,200,0 89,52,162,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/89.jpg 8,90,253,283,0 74,102,302,325,0 122,139,368,346,0 185,156,418,392,0 248,184,492,414,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/890.jpg 1,118,17,200,0 90,66,183,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/891.jpg 89,64,193,122,0 1,116,16,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/892.jpg 1,114,18,200,0 87,73,147,109,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/893.jpg 1,112,16,200,0 101,54,142,122,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/895.jpg 1,109,15,200,0 23,49,136,171,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/896.jpg 1,114,14,200,0 1,44,131,147,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/897.jpg 1,105,16,200,0 10,63,133,128,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/898.jpg 7,56,129,107,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/899.jpg 2,31,125,122,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/9.jpg 25,17,377,416,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/90.jpg 1,51,217,96,0 56,6,188,51,0 193,4,414,65,0 281,82,490,163,0 95,141,374,203,0 1,176,177,258,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/900.jpg 1,20,138,159,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/901.jpg 1,96,11,148,0 55,51,129,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/902.jpg 1,94,12,150,0 50,41,130,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/905.jpg 1,94,9,143,0 59,14,113,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/906.jpg 1,106,8,145,0 80,41,120,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/907.jpg 1,109,8,144,0 86,25,139,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/908.jpg 1,115,5,147,0 88,27,178,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/909.jpg 83,39,200,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/91.jpg 195,69,308,487,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/910.jpg 84,51,200,170,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/911.jpg 73,55,193,174,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/912.jpg 74,64,176,179,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/914.jpg 87,77,150,183,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/915.jpg 90,85,136,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/917.jpg 83,89,107,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/919.jpg 53,98,120,189,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/92.jpg 40,176,429,379,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/920.jpg 49,107,126,176,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/922.jpg 27,85,134,149,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/923.jpg 24,79,137,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/925.jpg 1,64,137,174,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/926.jpg 1,66,146,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/927.jpg 25,62,143,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/928.jpg 29,60,128,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/929.jpg 33,55,120,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/93.jpg 56,81,208,476,0 184,73,283,478,0 278,76,395,476,0 413,298,462,403,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/930.jpg 38,67,120,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/931.jpg 26,70,96,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/932.jpg 1,114,86,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/933.jpg 1,110,91,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/934.jpg 17,104,112,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/935.jpg 32,109,133,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/936.jpg 38,104,144,193,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/937.jpg 24,92,145,185,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/938.jpg 1,83,145,177,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/939.jpg 1,78,147,155,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/94.jpg 220,53,283,281,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/940.jpg 1,93,149,171,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/941.jpg 1,74,133,180,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/942.jpg 1,8,128,143,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/944.jpg 35,1,127,126,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/945.jpg 37,1,123,150,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/947.jpg 71,1,134,163,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/948.jpg 83,1,137,164,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/949.jpg 81,1,133,165,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/95.jpg 35,81,105,280,0 106,80,180,280,0 179,80,252,280,0 258,81,326,280,0 329,79,400,280,0 399,79,475,280,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/950.jpg 71,1,128,190,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/952.jpg 62,1,129,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/953.jpg 54,1,123,194,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/956.jpg 70,1,180,145,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/959.jpg 70,1,188,104,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/96.jpg 96,83,434,420,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/960.jpg 74,12,192,110,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/961.jpg 74,52,184,117,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/962.jpg 64,53,179,104,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/963.jpg 70,73,183,126,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/966.jpg 75,73,165,140,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/967.jpg 81,78,180,161,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/968.jpg 90,77,186,175,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/969.jpg 82,63,185,129,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/97.jpg 21,29,481,363,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/974.jpg 97,1,148,98,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/975.jpg 96,1,127,103,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/976.jpg 91,1,121,111,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/979.jpg 5,1,121,133,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/98.jpg 20,145,489,202,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/981.jpg 1,75,113,121,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/982.jpg 1,104,112,128,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/983.jpg 1,109,115,148,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/984.jpg 1,93,118,164,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/985.jpg 1,66,117,173,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/986.jpg 2,59,111,193,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/987.jpg 14,59,114,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/988.jpg 29,49,114,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/989.jpg 48,55,114,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/990.jpg 57,83,113,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/991.jpg 55,72,100,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/992.jpg 63,59,90,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/993.jpg 71,52,115,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/994.jpg 89,57,128,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/995.jpg 101,64,135,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/996.jpg 109,69,149,199,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/997.jpg 105,74,141,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/998.jpg 112,72,137,200,0
+D:\TJ_Data\Project\Spoon\yolov5-edition1\VOCdevkit/VOC2007/JPEGImages/999.jpg 114,73,138,200,0
