@@ -1,5 +1,8 @@
 ## YOLOV5：You Only Look Once目标检测模型在pytorch当中的实现（edition v5.0 in Ultralytics）
 ---
+## 介绍
+1. 本项目是同济大学2023年软件学院创新创业项目
+2. 课题目标：检测勺子
 
 ## 目录
 1. [仓库更新 Top News](#仓库更新)
